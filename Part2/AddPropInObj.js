@@ -16,3 +16,10 @@ for (let item of questions) {
         item.usersAnswer = null;
     }
 }
+questions.forEach(function(i) {
+    i.usersAnswer = null;
+});
+
+for (i = 0; i < questions.length; i++) {
+    questions[i].usersAnswer = null;
+};
