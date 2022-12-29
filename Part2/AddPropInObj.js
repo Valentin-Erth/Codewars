@@ -11,6 +11,7 @@ var questions = [{
     choices: ["Philadelphia", "At the bottom", "Frankie's Pub", "China"],
     corAnswer: 0
 }];*/
+
 for (let item of questions) {
     if (item.usersAnswer === undefined) {
         item.usersAnswer = null;

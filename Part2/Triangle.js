@@ -17,7 +17,7 @@
 // barTriang([4, 2], [12, 2], [6, 10]) ------> [7.3333, 4.6667]
 // The given points form a real or a degenerate triangle but in each case the above formulas can be used.
 
-unction barTriang(p1, p2, p3) {
+function barTriang(p1, p2, p3) {
     let total = [];
     let xb = (p1[0] + p2[0] + p3[0]) / 3;
     total[0] = +xb.toFixed(4);
