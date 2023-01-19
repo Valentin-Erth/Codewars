@@ -10,3 +10,4 @@ function sumTwoSmallestNumbers(numbers) {
     [min1, min2] = [arrSort[0], arrSort[1]]
     return min1 + min2;
 }
+var sumTwoSmallestNumbers = (numbers) => numbers.sort((a, b) => a - b).slice(0, 2).reduce((a, b) => a + b)
