@@ -5,7 +5,6 @@
 // filter_list([1,'a','b',0,15]) == [1,0,15]
 // filter_list([1,2,'aasf','1','123',123]) == [1,2,123]
 function filter_list(l) {
-    // Return a new array with the strings filtered out
-    let newArr = l.filter((el) => typeof(el) != 'string');
+     let newArr = l.filter((el) => typeof(el) != 'string');
     return newArr;
 }
