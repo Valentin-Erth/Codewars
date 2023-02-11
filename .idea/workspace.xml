@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6c2dad9-fa0f-425c-802c-a754f255e9f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Part3/DescendingOrder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part3/OddorEven.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676130050094</updated>
-      <workItem from="1676130051316" duration="345000" />
+      <workItem from="1676130051316" duration="1155000" />
     </task>
     <servers />
   </component>
