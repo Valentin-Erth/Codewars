@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6c2dad9-fa0f-425c-802c-a754f255e9f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Part3/reverseWords.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,7 @@
       <updated>1676130050094</updated>
       <workItem from="1676130051316" duration="1221000" />
       <workItem from="1676702094804" duration="1422000" />
-      <workItem from="1677313162612" duration="608000" />
+      <workItem from="1677313162612" duration="1520000" />
     </task>
     <servers />
   </component>
