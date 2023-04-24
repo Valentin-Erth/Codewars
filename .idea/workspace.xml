@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6c2dad9-fa0f-425c-802c-a754f255e9f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Part4/EqualSidesofArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part4/Isogram.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,8 @@
       <workItem from="1680682102985" duration="1770000" />
       <workItem from="1680689660605" duration="46000" />
       <workItem from="1681476262006" duration="224000" />
-      <workItem from="1681543244176" duration="103000" />
+      <workItem from="1681543244176" duration="772000" />
+      <workItem from="1682319510762" duration="454000" />
     </task>
     <servers />
   </component>
