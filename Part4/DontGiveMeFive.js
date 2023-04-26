@@ -20,9 +20,10 @@ const dontGiveMeFive = (start, end) => {
     return newArr.length;
 }
 console.log(dontGiveMeFive(4, 17))
-// function dontGiveMeFive(start, end)
-// {
-//     return Array.from(Array(end-start+1),(e,i)=>i+start)
-//         .filter((e)=>(''+e).indexOf('5')===-1)
-//         .length;
-// }
+// // function dontGiveMeFive(start, end)
+// // {
+// //     return Array.from(Array(end-start+1),(e,i)=>i+start)
+// //         .filter((e)=>(''+e).indexOf('5')===-1)
+// //         .length;
+// // }
+
