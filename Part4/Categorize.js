@@ -15,3 +15,4 @@
 const openOrSenior=(data)=>{
     return data.map(p=>p[0]>=55&&p[1]>7 ? 'Senior': 'Open')
 }
+
