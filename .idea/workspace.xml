@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6c2dad9-fa0f-425c-802c-a754f255e9f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Part4/FlatAndSortArr.js" afterDir="false" />
+    <list default="true" id="f6c2dad9-fa0f-425c-802c-a754f255e9f0" name="Changes" comment="answer CW find or filter duplicate, find form the minimum">
+      <change afterPath="$PROJECT_DIR$/Part4/FormTheMinimum.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part3/TakeTenMinutesWalk.js" beforeDir="false" afterPath="$PROJECT_DIR$/Part3/TakeTenMinutesWalk.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2LbBl8oiheaLdsr2tGStRFAX6CE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -83,8 +87,17 @@
       <workItem from="1685168069437" duration="9199000" />
       <workItem from="1685512125149" duration="4426000" />
       <workItem from="1686814319355" duration="3784000" />
-      <workItem from="1689053111168" duration="1958000" />
+      <workItem from="1689053111168" duration="3954000" />
     </task>
+    <task id="LOCAL-00001" summary="answer CW flat and sort array">
+      <option name="closed" value="true" />
+      <created>1689055277734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689055277734</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,5 +113,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="answer CW flat and sort array" />
+    <MESSAGE value="answer CW find or filter duplicate, find form the minimum" />
+    <option name="LAST_COMMIT_MESSAGE" value="answer CW find or filter duplicate, find form the minimum" />
   </component>
 </project>
