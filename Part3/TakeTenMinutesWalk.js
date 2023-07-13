@@ -36,4 +36,4 @@ function isValidWalk(walk) {
     const east = walk.filter(item => { return item === "e" }).length;
     const west = walk.filter(item => { return item === "w" }).length;
 
-    return walk.length === 10 && north === south && east === west;
+    return walk.length === 10 && north === south && east === west;}
