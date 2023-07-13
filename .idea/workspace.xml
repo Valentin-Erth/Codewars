@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6c2dad9-fa0f-425c-802c-a754f255e9f0" name="Changes" comment="answer CW find or filter duplicate, find form the minimum">
-      <change afterPath="$PROJECT_DIR$/Part4/HowSortedArr.js" afterDir="false" />
+    <list default="true" id="f6c2dad9-fa0f-425c-802c-a754f255e9f0" name="Changes" comment="answer CW check how sorted array: asc or desc">
+      <change afterPath="$PROJECT_DIR$/Part4/rowWeights.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part3/TakeTenMinutesWalk.js" beforeDir="false" afterPath="$PROJECT_DIR$/Part3/TakeTenMinutesWalk.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +27,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2LbBl8oiheaLdsr2tGStRFAX6CE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -88,7 +87,7 @@
       <workItem from="1685512125149" duration="4426000" />
       <workItem from="1686814319355" duration="3784000" />
       <workItem from="1689053111168" duration="4043000" />
-      <workItem from="1689237999767" duration="2467000" />
+      <workItem from="1689237999767" duration="4714000" />
     </task>
     <task id="LOCAL-00001" summary="answer CW flat and sort array">
       <option name="closed" value="true" />
@@ -106,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689057382992</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="answer CW check how sorted array: asc or desc">
+      <option name="closed" value="true" />
+      <created>1689240631019</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689240631019</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="answer CW flat and sort array" />
     <MESSAGE value="answer CW find or filter duplicate, find form the minimum" />
-    <option name="LAST_COMMIT_MESSAGE" value="answer CW find or filter duplicate, find form the minimum" />
+    <MESSAGE value="answer CW check how sorted array: asc or desc" />
+    <option name="LAST_COMMIT_MESSAGE" value="answer CW check how sorted array: asc or desc" />
   </component>
 </project>
