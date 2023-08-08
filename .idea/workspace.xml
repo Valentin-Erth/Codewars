@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6c2dad9-fa0f-425c-802c-a754f255e9f0" name="Changes" comment="answer CW check how sorted array: asc or desc">
-      <change afterPath="$PROJECT_DIR$/Part4/rowWeights.js" afterDir="false" />
+    <list default="true" id="f6c2dad9-fa0f-425c-802c-a754f255e9f0" name="Changes" comment="answer CW make sum el even and odd index of arr">
+      <change afterPath="$PROJECT_DIR$/Part4/differenceNumberAndString.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +87,8 @@
       <workItem from="1685512125149" duration="4426000" />
       <workItem from="1686814319355" duration="3784000" />
       <workItem from="1689053111168" duration="4043000" />
-      <workItem from="1689237999767" duration="4714000" />
+      <workItem from="1689237999767" duration="4890000" />
+      <workItem from="1691483271750" duration="2666000" />
     </task>
     <task id="LOCAL-00001" summary="answer CW flat and sort array">
       <option name="closed" value="true" />
@@ -113,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689240631019</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="answer CW make sum el even and odd index of arr">
+      <option name="closed" value="true" />
+      <created>1689242884130</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689242884130</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +143,7 @@
     <MESSAGE value="answer CW flat and sort array" />
     <MESSAGE value="answer CW find or filter duplicate, find form the minimum" />
     <MESSAGE value="answer CW check how sorted array: asc or desc" />
-    <option name="LAST_COMMIT_MESSAGE" value="answer CW check how sorted array: asc or desc" />
+    <MESSAGE value="answer CW make sum el even and odd index of arr" />
+    <option name="LAST_COMMIT_MESSAGE" value="answer CW make sum el even and odd index of arr" />
   </component>
 </project>
