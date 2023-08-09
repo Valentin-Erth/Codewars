@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6c2dad9-fa0f-425c-802c-a754f255e9f0" name="Changes" comment="answer CW make even and odd in word">
-      <change afterPath="$PROJECT_DIR$/Part4/evenOddWord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part4/taskForInterviu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part4/evenOddWord.js" beforeDir="false" afterPath="$PROJECT_DIR$/Part4/evenOddWord.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +89,8 @@
       <workItem from="1686814319355" duration="3784000" />
       <workItem from="1689053111168" duration="4043000" />
       <workItem from="1689237999767" duration="4890000" />
-      <workItem from="1691483271750" duration="4115000" />
+      <workItem from="1691483271750" duration="4299000" />
+      <workItem from="1691562984274" duration="4431000" />
     </task>
     <task id="LOCAL-00001" summary="answer CW flat and sort array">
       <option name="closed" value="true" />
@@ -130,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691492540258</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="answer CW make even and odd in word">
+      <option name="closed" value="true" />
+      <created>1691494043849</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691494043849</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

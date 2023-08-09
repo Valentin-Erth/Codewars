@@ -6,8 +6,9 @@
 //
 //     Good luck!
 
-function capitalize(s) {
-    const evenWord = s.split('').map((el,i)=> i % 2 === 0 || i === 0 ? el.toUpperCase() : el).join('')
-    const oddWord=s.split('').map((el,i)=>i%2!==0? el.toUpperCase(): el).join('')
-    return [evenWord,oddWord]
-}
+// function capitalize(s) {
+//     const evenWord = s.split('').map((el,i)=> i % 2 === 0 || i === 0 ? el.toUpperCase() : el).join('')
+//     const oddWord=s.split('').map((el,i)=>i%2!==0? el.toUpperCase(): el).join('')
+//     return [evenWord,oddWord]
+// }
+// console.log(capitalize('codewars'))
