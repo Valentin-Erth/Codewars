@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6c2dad9-fa0f-425c-802c-a754f255e9f0" name="Changes" comment="answer task CW duplikate Count in string">
-      <change afterPath="$PROJECT_DIR$/Part4/findUniqNumber.js" afterDir="false" />
+    <list default="true" id="f6c2dad9-fa0f-425c-802c-a754f255e9f0" name="Changes" comment="answer task CW find uniq number in arr">
+      <change afterPath="$PROJECT_DIR$/Part4/HighestScoringWord.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part4/findUniqNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/Part4/findUniqNumber.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Development/IT-inkubator/Todolist/Todolist5Mounth/it-incubator-todolist-ts-17",
+    "last_opened_file_path": "D:/Development/IT-inkubator/Codewars",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -96,7 +97,8 @@
       <workItem from="1693900627942" duration="7150000" />
       <workItem from="1694009504921" duration="57000" />
       <workItem from="1694009578393" duration="996000" />
-      <workItem from="1694076156690" duration="1791000" />
+      <workItem from="1694076156690" duration="2014000" />
+      <workItem from="1694240587280" duration="3178000" />
     </task>
     <task id="LOCAL-00001" summary="answer CW flat and sort array">
       <option name="closed" value="true" />
@@ -170,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693904358076</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="answer task CW find uniq number in arr">
+      <option name="closed" value="true" />
+      <created>1694086037499</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694086037499</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +207,7 @@
     <MESSAGE value="answer task from interviu" />
     <MESSAGE value="answer task CW word is reversed" />
     <MESSAGE value="answer task CW duplikate Count in string" />
-    <option name="LAST_COMMIT_MESSAGE" value="answer task CW duplikate Count in string" />
+    <MESSAGE value="answer task CW find uniq number in arr" />
+    <option name="LAST_COMMIT_MESSAGE" value="answer task CW find uniq number in arr" />
   </component>
 </project>
